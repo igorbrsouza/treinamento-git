@@ -18,12 +18,4 @@ Alteração da main
 
 Alteração da develop
 
-B
-
-BBBB
-B
-B
-
-B
-B
-Criei uma tela de vendas e ela está funcional !
+Tudo isso foi um aprendizado e continua sendo !
