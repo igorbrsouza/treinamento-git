@@ -14,16 +14,8 @@ Outro texto !
 
 Texto
 
-Alteração da main
+## Outro Titulo
 
-Alteração da develop
+Git
 
-B
-
-BBBB
-B
-B
-
-B
-B
-Criei uma tela de vendas e ela está funcional !
+Aprendendo sempre !
