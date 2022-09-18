@@ -18,4 +18,10 @@ Texto
 
 Git
 
-Aprendendo sempre.
+Aprendendo sempre !
+
+TEXTO
+
+AA
+A
+A
