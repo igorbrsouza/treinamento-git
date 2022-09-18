@@ -26,3 +26,4 @@ B
 
 B
 B
+Criei uma tela de vendas e ela está funcional !
