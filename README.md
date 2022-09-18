@@ -17,3 +17,5 @@ Texto
 Alteração da main
 
 Alteração da develop
+
+Criei uma tela de vendas e ela está funcional !
